@@ -7,14 +7,14 @@ pnpm run clean   # 清除缓存文件(db.json)和静态文件(public)
 pnpx hexo new <title>  # 新建文章
 ```
 
-### 语法高亮主题
+### 代码高亮主题
 
 `monokai`
 `agate`
 `tomorrow-night-blue`
 `tomorrow-night-eighties`
 
-### 主题bug修复
+### 修复主题bug
 
 编辑 `themes/cactus/source/js/main.js`
 
