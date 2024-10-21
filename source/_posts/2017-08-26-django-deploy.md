@@ -109,4 +109,4 @@ sudo service nginx restart
 架构上 Nginx 做为静态服务器，是真正的 http 服务器，用于处理静态文件资源；
 gunicorn 做为动态服务器，位于 http 服务器和应用层之间，用于处理后台数据。
 Nginx 反向代理 gunicorn，gunicorn 与应用间使用 wsgi 通信。
-![django-deploy](/images/django-deploy/django-deploy.png)
+![django-deploy](/images/django-deploy/1.png)

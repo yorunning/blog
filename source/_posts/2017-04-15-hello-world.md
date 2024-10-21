@@ -5,7 +5,7 @@ categories:
   - Think
 ---
 
-![hello-world](/images/hello-world/hello-world.jpg)
+![hello-world](/images/hello-world/1.jpg)
 
 在知乎，百度各种取经的情况下，这个博客终于搭建起来了。
 
